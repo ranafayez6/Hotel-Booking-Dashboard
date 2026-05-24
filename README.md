@@ -39,6 +39,9 @@ Provides a high-level summary of hotel performance using KPIs and trend analysis
 * Booking Status Distribution
 * Bookings by Country
 * Booking Sources Analysis
+__________
+  <img width="1257" height="704" alt="Screenshot 2026-05-23 024752" src="https://github.com/user-attachments/assets/c7d37446-cf62-4e81-a93a-7729fdae48ec" />
+
 
 ⸻
 
@@ -53,6 +56,8 @@ Focuses on customer behavior and guest segmentation.
 * Top Countries by Bookings
 * Market Segment Analysis
 * Customer Type Performance
+__________
+<img width="1246" height="697" alt="Screenshot 2026-05-23 020220" src="https://github.com/user-attachments/assets/f679b42f-65d6-4677-9f90-d07a85253bf2" />
 
 ⸻
 
@@ -67,6 +72,8 @@ Analyzes revenue drivers and profitability trends.
 * Revenue by Customer Type
 * ADR vs Lead Time Relationship
 * Revenue Target Achievement
+__________
+<img width="1244" height="692" alt="Screenshot 2026-05-23 020246" src="https://github.com/user-attachments/assets/61f0210c-9555-4a9b-bae9-f345d9af3cff" />
 
 ⸻
 
@@ -80,6 +87,8 @@ Investigates cancellation patterns and potential business risks.
 * Bookings vs Cancellations Over Time
 * Cancellation Heatmap
 * Root Cause Analysis using Decomposition Tree
+___________
+<img width="1240" height="692" alt="Screenshot 2026-05-23 020415" src="https://github.com/user-attachments/assets/9c717ef3-7e69-46b3-a958-6b564694ce3e" />
 
 ⸻
 
